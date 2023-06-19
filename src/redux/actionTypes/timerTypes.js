@@ -1,0 +1,10 @@
+export const INCREASE_SECOND = 'INCREASE_SECOND';
+export const INCREASE_MINUTE = 'INCREASE_MINUTE';
+export const INCREASE_HOUR = 'INCREASE_HOUR';
+export const DECREASE_SECOND = 'DECREASE_SECOND';
+export const DECREASE_MINUTE = 'DECREASE_MINUTE';
+export const DECREASE_HOUR = 'DECREASE_HOUR';
+export const TIMER_RESET = 'TIMER_RESET';
+export const SHORT_BREAK = 'SHORT_BREAK';
+export const LONG_BREAK = 'LONG_BREAK';
+export const SET_ZERO = 'SET_ZERO';
